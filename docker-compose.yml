@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  fastapi:
+    build: .
+    ports:
+      - "8085:8085"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1

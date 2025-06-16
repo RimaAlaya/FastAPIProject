@@ -1,0 +1,14 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Fichiers temporaires
+__pycache__/
+*.py[cod]
+*.log
+
+# Fichiers sensibles
+.env.local

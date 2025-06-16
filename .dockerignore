@@ -1,0 +1,12 @@
+# Ignorer les fichiers inutiles dans l’image Docker
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.local
+.idea/
+venv/
+.venv/
+.git/
+.dockerignore
+.gitignore
