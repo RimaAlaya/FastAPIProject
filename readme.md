@@ -322,7 +322,7 @@ This system prevents engine failures before they happen and helps drivers reduce
 **Rima ALAYA**  
 🎓 National School of Engineers of Carthage  
 📧 rima.alaya@enicar.ucar.tn  
-🔗 [LinkedIn](#https://linkedin.com/in/rima-alaya) • [GitHub](#https://github.com/RimaAlaya)
+🔗 [LinkedIn](https://linkedin.com/in/rima-alaya) • [GitHub](https://github.com/RimaAlaya)
 
 *Open to opportunities in ML Engineering, Backend Development, or Automotive AI*
 
