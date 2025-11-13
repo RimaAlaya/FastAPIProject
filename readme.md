@@ -5,7 +5,7 @@ A comprehensive FastAPI-based system providing real-time vehicle diagnostics, dr
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-green.svg)](https://fastapi.tiangolo.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-orange.svg)](https://www.tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ## 📋 Table of Contents
 
@@ -322,7 +322,7 @@ This system prevents engine failures before they happen and helps drivers reduce
 **Rima ALAYA**  
 🎓 National School of Engineers of Carthage  
 📧 rima.alaya@enicar.ucar.tn  
-🔗 [LinkedIn](#) • [GitHub](#)
+🔗 [LinkedIn](#https://linkedin.com/in/rima-alaya) • [GitHub](#https://github.com/RimaAlaya)
 
 *Open to opportunities in ML Engineering, Backend Development, or Automotive AI*
 
